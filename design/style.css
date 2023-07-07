@@ -3,6 +3,18 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
  /* navbar */
- nav{
+ .navbar{
+    display:flex;
+ }
+ .page-title{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 700px;
+
+ }
+ .name{
+    color: #FD6E0A;
+ }
+ .menubar{
     display:flex;
  }
