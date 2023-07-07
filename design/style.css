@@ -1,0 +1,8 @@
+/* common font styles from google fonts */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+ /* navbar */
+ nav{
+    display:flex;
+ }
