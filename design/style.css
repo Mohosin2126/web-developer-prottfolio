@@ -5,20 +5,48 @@
 }
 .menubar{
    display: flex;
+ 
 }
 .option{
    display: flex;
    list-style: none;
-   
-
+  margin-left:50px;
+  color:var(--dark-02, #474747);
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+ 
+}
+.list{
+margin-right:50px;
+align-items: center;
 }
 .title-name{
    color: #181818;
-font-family: Open Sans;
+
 font-size: 45px;
 font-weight: 800;
 
 }
-.foro{
+.primary-color{
    color: #FD6E0A;
+}
+.list a{
+   text-decoration: none;
+
+}
+.primary-button{
+   width: 100px;
+height: 30px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FD6E0A;
+color: var(--white-color, #FFF);
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
