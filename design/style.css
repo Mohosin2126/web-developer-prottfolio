@@ -1,0 +1,11 @@
+*{
+   padding:0px;
+   margin:0px;
+
+}
+.menubar{
+   display: flex;
+}
+.option{
+   display: flex;
+}
