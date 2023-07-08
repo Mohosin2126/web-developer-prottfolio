@@ -8,4 +8,17 @@
 }
 .option{
    display: flex;
+   list-style: none;
+   
+
+}
+.title-name{
+   color: #181818;
+font-family: Open Sans;
+font-size: 45px;
+font-weight: 800;
+
+}
+.foro{
+   color: #FD6E0A;
 }
